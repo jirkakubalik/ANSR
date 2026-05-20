@@ -284,3 +284,12 @@ If you find this useful, please cite the paper:
   doi       = {10.1145/3795095.3805164}
 }
 ```
+=======
+Coming soon:
+- README
+  - brief overview of ANSR principles
+  - input data format and constraints
+  - output directory structure and file formats
+  - an illustrative example of ANSR usage
+- Source code
+- GECCO’26 experiment setup, data, configuration, and results
